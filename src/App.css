@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+Header {
+  font-family: 'Smythe';
+  font-size: x-large;
+  text-align: center;
+  color:  #2ecc71;
+}
+
+ul {
+  text-align: left
+}
+
+li:hover {
+  background-color: #2ecc71;
+  font-size: 1.5rem;
+}
+
+.toDoList {
+    border: 5px double #FF5733; /* Double orange border */
+    padding: 5px;
+    width: 300px;
+    text-align: center;
+
+}
